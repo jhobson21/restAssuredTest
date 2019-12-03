@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2314" started-at="2019-11-27T16:04:30Z" finished-at="2019-11-27T16:04:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2314" started-at="2019-11-27T16:04:30Z" finished-at="2019-11-27T16:04:32Z">
+      <class name="getRequest.GetData">
+        <test-method status="PASS" signature="testResponseCodeFromCountryCode()[pri:0, instance:getRequest.GetData@1b604f19]" name="testResponseCodeFromCountryCode" duration-ms="1352" started-at="2019-11-27T16:04:30Z" finished-at="2019-11-27T16:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCodeFromCountryCode -->
+        <test-method status="PASS" signature="testResponseCodeFromFullName()[pri:0, instance:getRequest.GetData@1b604f19]" name="testResponseCodeFromFullName" duration-ms="315" started-at="2019-11-27T16:04:31Z" finished-at="2019-11-27T16:04:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCodeFromFullName -->
+        <test-method status="PASS" signature="testResponseCodeFromPartialName()[pri:0, instance:getRequest.GetData@1b604f19]" name="testResponseCodeFromPartialName" duration-ms="323" started-at="2019-11-27T16:04:32Z" finished-at="2019-11-27T16:04:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCodeFromPartialName -->
+        <test-method status="PASS" signature="testResponseCodeFromPartialNameWithMultipleMatches()[pri:0, instance:getRequest.GetData@1b604f19]" name="testResponseCodeFromPartialNameWithMultipleMatches" duration-ms="304" started-at="2019-11-27T16:04:32Z" finished-at="2019-11-27T16:04:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCodeFromPartialNameWithMultipleMatches -->
+      </class> <!-- getRequest.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
